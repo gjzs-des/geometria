@@ -7,6 +7,7 @@ public class Circulo_GZ extends FiguraGeometrica_GZ {
 	public Circulo_GZ(double r, String tipoFigura) {
 		super(tipoFigura);
 		radio = r;
+	
 	}
 
 	@Override
