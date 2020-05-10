@@ -21,7 +21,7 @@
   </class>  
   <class id="3" language="java" name="Rectangulo_GZ" project="geometria" 
     file="/geometria/geometria/src/Rectangulo_GZ.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="703" y="400"/>    
+    <position height="-1" width="-1" x="739" y="271"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      

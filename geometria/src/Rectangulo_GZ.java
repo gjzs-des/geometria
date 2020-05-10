@@ -8,6 +8,7 @@ public class Rectangulo_GZ extends FiguraGeometrica_GZ {
 		l1 = lG;
 		l2 = lP;
 	}
+	
 
 	@Override
 	public double area() {
